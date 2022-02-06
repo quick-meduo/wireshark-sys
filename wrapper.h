@@ -8,6 +8,7 @@
 #include <epan/stream.h>
 #include <epan/follow.h>
 #include <epan/print_stream.h>
+#include <cfile.h>
 
 #include <wsutil/plugins.h>
 #include <wsutil/privileges.h>
